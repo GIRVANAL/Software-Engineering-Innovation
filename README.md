@@ -29,6 +29,7 @@ When evaluating a workflow for your team, it's most important that you consider 
 * Does this workflow impose any new unnecessary cognitive overhead to the team?
 
 ###The category of workflow
+
 ####1.Centralized Workflow
 
 ![Centralized Workflow](https://wac-cdn.atlassian.com/dam/jcr:0869c664-5bc1-4bf2-bef0-12f3814b3187/01.svg?cdnVersion=ht)
