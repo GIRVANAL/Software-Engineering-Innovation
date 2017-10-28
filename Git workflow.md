@@ -5,6 +5,7 @@
 
 **Student ID:516030910115**
 ***
+
 ##Overview
 
 This document describes the git workflow.
@@ -110,6 +111,7 @@ Before the developer can publish their feature, they need to fetch the updated c
 If local changes directly conflict with upstream commits, Git will pause the rebasing process and give you a chance to manually resolve the conflicts. The nice thing about Git is that it uses the same **git status** and **git add** commands for both generating commits and resolving merge conflicts. This makes it easy for new developers to manage their own merges. Plus, if they get themselves into trouble, Git makes it very easy to abort the entire rebase and try again (or go find help).
 
 ##Reference
+
 [深入理解学习Git工作流](https://segmentfault.com/a/1190000002918123#articleHeader6)
 
 [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
