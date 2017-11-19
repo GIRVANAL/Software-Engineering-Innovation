@@ -15,7 +15,7 @@ Vue.use(Vuex)
 const  vuex_store = new Vuex.Store({
     state:{
         totalmess: 0,
-        title: '你的博客'
+        title: '博客'
     },
     mutations:{
         
